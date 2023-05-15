@@ -4,4 +4,4 @@ Rede Neural desenvolvida para a matéria de Introdução às Inteligências Arti
 
 ## Objetivo
 
-Esse projeto visa criar e utilizar um rede neural capaz, a partir do treinamento, de fazer a previsão de chuva.
+Esse projeto visa criar e utilizar um rede neural capaz de, a partir do treinamento e dados fornecidos pelo usuário, fazer a previsão de chuva
