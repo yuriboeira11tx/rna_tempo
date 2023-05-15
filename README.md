@@ -1,4 +1,4 @@
-# RNA - Previsão do Tempo
+# RNA - Previsão de Chuva ☔
 
 Rede Neural desenvolvida para a matéria de Introdução às Inteligências Artificais do curso de Sistemas de Informação UFSM-FW
 
